@@ -7,7 +7,7 @@ build   = "build.rs"
 
 [dependencies]
 futures = "0.1"
-tokio   = "0.1.21"
+tokio   = "1.8.4"
 clap    = "2.33.0"
 
     [dependencies.rdkafka]
